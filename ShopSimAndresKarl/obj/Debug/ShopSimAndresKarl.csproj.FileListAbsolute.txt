@@ -1,0 +1,71 @@
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.exe.config
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.exe
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.pdb
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csprojAssemblyReference.cache
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Properties.Resources.resources
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csproj.GenerateResource.cache
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.exe
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.pdb
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form2.resources
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form1.resources
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form3.resources
+C:\Users\Andres\Documents\Archivos 2021\Universidad\Primer Semestre\Progra 3\C#\ProyectoShopSimulatorAndresKarl\ShopSimAndresKarl\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form4.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.exe.config
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.exe
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.pdb
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csprojAssemblyReference.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form1.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form2.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form3.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form4.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Properties.Resources.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csproj.GenerateResource.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csproj.CoreCompileInputs.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.exe
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\actual\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.pdb
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\logInOLoQueSea.g.cs
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl_MarkupCompile.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl_MarkupCompile.lref
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.exe
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.pdb
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.exe.config
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.exe
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.pdb
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\logInOLoQueSea.baml
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.g.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form1.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form2.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form3.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form4.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Properties.Resources.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csproj.GenerateResource.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csproj.CoreCompileInputs.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\bugReport.g.cs
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\bugReport.baml
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\pagosControler.g.cs
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\pagosControler.baml
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3 - copia\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csprojAssemblyReference.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.exe.config
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.exe
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\bin\Debug\ShopSimAndresKarl.pdb
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\bugReport.g.cs
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\logInOLoQueSea.g.cs
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\pagosControler.g.cs
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl_MarkupCompile.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl_MarkupCompile.lref
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\bugReport.baml
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\logInOLoQueSea.baml
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\pagosControler.baml
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.g.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form1.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form2.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form3.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Form4.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.Properties.Resources.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csproj.GenerateResource.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csproj.CoreCompileInputs.cache
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.exe
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.pdb
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.formPago.resources
+C:\Users\kvt\Desktop\Trabajos de la Universidad\3er Semestre 2021\Programación\Proyectos\parte 3\ShopSimAndresKarl\obj\Debug\ShopSimAndresKarl.csprojAssemblyReference.cache

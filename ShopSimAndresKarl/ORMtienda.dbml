@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="miniStoreV2" Class="ORMtiendaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-7RUJ0GC;Initial Catalog=miniStoreV2;Integrated Security=True" SettingsObjectName="ShopSimAndresKarl.Properties.Settings" SettingsPropertyName="miniStoreV2ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.bugsReport" Member="bugsReport">
+    <Type Name="bugsReport">
+      <Column Name="reportID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="userID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="problemDescription" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="isFixed" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Users_bugsReport" Member="Users" ThisKey="userID" OtherKey="userID" Type="Users" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Orders" Member="Orders">
+    <Type Name="Orders">
+      <Column Name="orderID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="userID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="total" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Orders_Orders_Details" Member="Orders_Details" ThisKey="orderID" OtherKey="orderID" Type="Orders_Details" />
+      <Association Name="Users_Orders" Member="Users" ThisKey="userID" OtherKey="userID" Type="Users" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Orders_Details" Member="Orders_Details">
+    <Type Name="Orders_Details">
+      <Column Name="idRandom" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="orderID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="productID" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="subtotal" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Orders_Orders_Details" Member="Orders" ThisKey="orderID" OtherKey="orderID" Type="Orders" IsForeignKey="true" />
+      <Association Name="Products_Orders_Details" Member="Products" ThisKey="productID" OtherKey="productID" Type="Products" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Products" Member="Products">
+    <Type Name="Products">
+      <Column Name="productID" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="productName" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="unitPrice" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="productDescription" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Association Name="Products_Orders_Details" Member="Orders_Details" ThisKey="productID" OtherKey="productID" Type="Orders_Details" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="Users">
+      <Column Name="userID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="userName" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="personalPassword" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Association Name="Users_bugsReport" Member="bugsReport" ThisKey="userID" OtherKey="userID" Type="bugsReport" />
+      <Association Name="Users_Orders" Member="Orders" ThisKey="userID" OtherKey="userID" Type="Orders" />
+    </Type>
+  </Table>
+</Database>
